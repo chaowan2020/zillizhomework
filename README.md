@@ -1,2 +1,8 @@
 this is the home work of zilliz interview.
-NPM start then open your browser with http://localhost:4200/
+First NPM install to install dependencies.
+Then NPM start.
+After that, open your browser at http://localhost:4200/
+
+Thanks,
+Have a good day.
+Chao
